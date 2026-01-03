@@ -61,7 +61,7 @@ The project includes comprehensive test cases for the contact form:
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/antumarma/DSTUDIO_Testing>
+git clone <https://github.com/antumarma/DSTUDIO_Testing.git>
 cd DSTUDIO
 ```
 
